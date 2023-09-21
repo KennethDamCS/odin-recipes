@@ -20,3 +20,24 @@ button{
     background-color: orange;
     font-size: 18px;
 } */
+
+.class1, .class2, .class3{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class2{
+    font-size: 24px;
+}
+
+#id1{
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+}
+
+#id2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
