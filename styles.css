@@ -55,3 +55,13 @@ button{
 .button2{
     background-color: yellow;
 }
+
+.ancestor .child1{
+    background: white;
+    color: black;
+}
+
+.ancestor .child2{
+    color: lightgray;
+    font-size: 24px;
+}
